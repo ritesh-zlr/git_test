@@ -1,0 +1,31 @@
+/* .fullbody{
+    position: absolute;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    margin: 0px 50px 75px 10px;
+} */
+
+
+#pic1{
+    display: block;
+    /* position: absolute; */
+    /* border: 5px solid #555; */
+    padding-left: 0;
+    height: auto;
+ 
+}
+#pic2{
+    /* display: block; */
+    /* position: absolute; */
+    /* border: 5px solid #555; */
+    padding-left: 50%;
+/* margin: -280px 0px 0px 550px; */
+/* width:50%; */
+    
+    
+}
+#list{
+   /* border: 2px solid black;
+   padding-bottom: 400px; */
+}
